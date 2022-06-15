@@ -1,0 +1,53 @@
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.csproj.AssemblyReference.cache
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3_MarkupCompile.cache
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.exe
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.deps.json
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.runtimeconfig.json
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.runtimeconfig.dev.json
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.dll
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.pdb
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3_MarkupCompile.lref
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.g.resources
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.AssemblyInfoInputs.cache
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.AssemblyInfo.cs
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.csproj.CoreCompileInputs.cache
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.dll
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.pdb
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.genruntimeconfig.cache
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\CrearConferencia.g.cs
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\ListaConferencia.g.cs
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\RegistrarAdministrador.g.cs
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\CrearConferencia.baml
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\ListaConferencia.baml
+C:\Users\Luis Rodrigo\source\repos\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\RegistrarAdministrador.baml
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.exe
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.deps.json
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.runtimeconfig.json
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.runtimeconfig.dev.json
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.dll
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\bin\Debug\netcoreapp3.1\Proyecto_Programacion3.pdb
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.csproj.AssemblyReference.cache
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\CrearConferencia.g.cs
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\ListaConferencia.g.cs
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\RegistrarAdministrador.g.cs
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3_MarkupCompile.cache
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3_MarkupCompile.lref
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\CrearConferencia.baml
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\ListaConferencia.baml
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\RegistrarAdministrador.baml
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.g.resources
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.AssemblyInfoInputs.cache
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.AssemblyInfo.cs
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.dll
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.pdb
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\Proyecto_Programacion3.genruntimeconfig.cache
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\SuscripcionConferencia.g.cs
+C:\Users\usuariocc\Desktop\Proyecto_Programacion3\Proyecto_Programacion3\obj\Debug\netcoreapp3.1\SuscripcionConferencia.baml

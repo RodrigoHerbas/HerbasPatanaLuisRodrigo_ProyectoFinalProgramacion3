@@ -1,0 +1,108 @@
+﻿<Window x:Class="Proyecto_Programacion3.RegistrarAdministrador"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto_Programacion3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="503" Width="900"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#232628">
+
+        <TextBlock Text="G E S T I O N  D E  C O N F E R E N C I A"
+                   Foreground="#FFFCFDF7"
+                   FontFamily="Fonts/#Orbitron Medium"
+                   FontSize="10" 
+                   VerticalAlignment="Bottom"
+                   HorizontalAlignment="Right"
+                   Margin="0,0,15,10"/>
+
+        <MenuItem x:Name="MenuItemSesionAdministrador" 
+                  Header="Sesion Administrador"
+                  Foreground="White" 
+                  FontSize="20"
+                  Margin="0,0,0,452"
+                  HorizontalAlignment="Right" 
+                  Width="278" />
+
+        <Border Background="#D61734"
+                Height="15"
+                CornerRadius="3,0,0,3"
+                Width="5"
+                VerticalAlignment="Bottom"
+                HorizontalAlignment="Right"
+                Margin="0,0,0,8"/>
+
+        <StackPanel Background="#2E333A"
+                    Width="230"
+                    Orientation="Vertical"
+                    HorizontalAlignment="Left">
+
+            <Menu Height="340"
+                  Background="Transparent"
+                  Margin="0,40,0,0">
+
+                <Grid Height="50"
+                      VerticalAlignment="Top"
+                      Margin="0,30,0,0">
+
+                    <Border Background="#D61734"
+                            Height="25"
+                            CornerRadius="3,0,0,3"
+                            Width="6"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Right"/>
+
+                    <TextBlock Text="GESTION    DE     CONFERENCIA"
+                               Foreground="#FFFFFF"
+                               FontFamily="Fonts/#Orbitron Medium"
+                               FontSize="15"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"/>
+                </Grid>
+
+                <MenuItem x:Name="MenuItemInicio"
+                          Header="Inicio"
+                          Foreground="White"
+                          FontSize="20" Click="MenuItemInicio_Click" />
+
+                <MenuItem x:Name="MenuItemCrearConferencia"
+                          Header="Crear Conferencia"
+                          Foreground="White"
+                          FontSize="20" 
+                          Visibility="Hidden"/>
+
+                <MenuItem x:Name="MenuItemListaConferencia"
+                          Header="Lista Conferencia"
+                          Foreground="White" 
+                          FontSize="20" Click="MenuItemListaConferencia_Click" />
+
+                <MenuItem x:Name="MenuItemSalir"
+                          Header="Salir"
+                          Foreground="White"
+                          FontSize="20" Click="MenuItemSalir_Click" />
+
+                <Menu.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel Orientation="Vertical"/>
+                    </ItemsPanelTemplate>
+                </Menu.ItemsPanel>
+            </Menu>
+        </StackPanel>
+        <Label Content="Registrar Administrador" HorizontalAlignment="Left" Margin="505,74,0,0" VerticalAlignment="Top" Foreground="#FFF9F3F3" FontSize="20"/>
+        <Label Content="Nombre del Administrador:" HorizontalAlignment="Left" Margin="338,130,0,0" VerticalAlignment="Top" Foreground="#FFF5ECEC" FontSize="15" Height="38" Width="227"/>
+        <TextBox x:Name="txtNombreAdministrador" HorizontalAlignment="Left" Margin="575,130,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="207" Height="38" FontSize="15"/>
+        <Label Content="Apellido Paterno:" HorizontalAlignment="Left" Margin="338,180,0,0" VerticalAlignment="Top" FontSize="15" Foreground="White" Height="38" Width="146"/>
+        <TextBox x:Name="txtApellidoPaterno" HorizontalAlignment="Left" Margin="575,180,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="207" Height="38" FontSize="15"/>
+        <Label Content="Apellido Materno:" HorizontalAlignment="Left" Margin="338,234,0,0" VerticalAlignment="Top" FontSize="15" Foreground="White" Height="38" Width="153"/>
+        <TextBox x:Name="txtApellidoMaterno" HorizontalAlignment="Left" Margin="575,234,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="207" Height="38" FontSize="15"/>
+        <Label Content="Nombre Usuario:" HorizontalAlignment="Left" Margin="338,292,0,0" VerticalAlignment="Top" FontSize="15" Foreground="White" Height="38" Width="146"/>
+        <TextBox x:Name="txtNombreUsuario" HorizontalAlignment="Left" Margin="575,292,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="207" Height="38" FontSize="15"/>
+        <Label Content="Contraseña:" HorizontalAlignment="Left" Margin="338,351,0,0" VerticalAlignment="Top" FontSize="15" Foreground="White" Height="38" Width="105"/>
+        <Button x:Name="btnGuardar" Content="Guardar" HorizontalAlignment="Left" Margin="390,419,0,0" VerticalAlignment="Top" FontSize="20" Background="#2E333A" Foreground="White" Width="96" Click="btnGuardar_Click"/>
+        <Button x:Name="btnCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="615,419,0,0" VerticalAlignment="Top" FontSize="20" Background="#2E333A" Foreground="White" Width="87" Click="btnCancelar_Click"/>
+        <PasswordBox x:Name="pwContraseñaAdministrador" HorizontalAlignment="Left" Margin="575,351,0,0" VerticalAlignment="Top" Width="207" Height="38"/>
+    </Grid>
+</Window>
